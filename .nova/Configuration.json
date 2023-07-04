@@ -1,0 +1,7 @@
+{
+  "index.ignored_file_patterns" : [
+    "*.DS_Store"
+  ],
+  "workspace.art_style" : 0,
+  "workspace.name" : "Alignment"
+}

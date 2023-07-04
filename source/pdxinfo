@@ -1,0 +1,10 @@
+name=Alignment
+author=Really Easy
+description=Align yourself with the powers of good to defeat the dark forces lurking in the dungeons.
+bundleID=com.reallyeasy.alignment
+version=1.0
+buildNumber=1
+imagePath=foo
+card.png=foo
+launchImage.png=foo
+launchSoundPath=foo
